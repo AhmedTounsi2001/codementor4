@@ -86,3 +86,18 @@
         color: hsl(0, 0%, 59%);
         font-size: 0.6em;
     }
+@media (max-width: 800px) and (min-width: 557px){
+  body{  background:  url(./img/bg-pattern-top.svg) no-repeat -7cm -4.5cm, url(./img/bg-pattern-bottom.svg) no-repeat 9cm  11.7cm;
+    background-size: 80vw;
+  }
+}
+
+@media (max-width: 556px){
+  .container {
+    width: 90%;
+    
+  }
+  body{ background: url(./img/bg-pattern-top.svg) no-repeat -7cm -4.5cm, url(./img/bg-pattern-bottom.svg) no-repeat 5cm  11.7cm;
+      background-size: 120vw;
+    }
+}
