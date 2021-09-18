@@ -10,7 +10,7 @@
         font-size: 18px;
         height: 100vh;
         background-color: hsl(185, 75%, 39%);
-        background-image: url(./bg-pattern-top.svg), url(./bg-pattern-bottom.svg);
+        background-image: url(./img/bg-pattern-top.svg), url(./img/bg-pattern-bottom.svg);
         background-position: left top, right bottom;
         background-repeat: no-repeat, no-repeat;
         text-align: center;
